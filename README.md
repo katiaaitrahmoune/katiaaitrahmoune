@@ -1,15 +1,4 @@
-### 👋 Hi, I'm Katia Ait Rahmoune
 
-`backend dev` · `AI builder` · CS @ ESI-SBA · co-founder of BlindEYE
-
----
-
-3rd-year CS student at ESI-SBA, Algeria. I build things that matter — AI wearables, civic tech, healthcare AI, and autism care platforms.
-
-Always in the middle of something: a hackathon, a startup, or a side project.
-Open to **remote internships** and freelance opportunities.
-
----
 
 **Stack**
 
@@ -24,19 +13,3 @@ Open to **remote internships** and freelance opportunities.
 
 ---
 
-**Projects**
-
-| Project | What it does |
-|---|---|
-| [BlindEYE](https://github.com/katiaaitrahmoune/BlindEYE) | AI wearable for visually impaired — ESP32-S3 + CV + audio |
-| MedScan | AI prescription scanner — Gemini OCR + Flutter |
-| Autilia | Autism care platform — families ↔ specialists, full backend |
-| SafeCity 🏆 | Civic incident reporting + AI heatmap — hackathon winner |
-| Hospital System | Hospital management backend — patients, doctors, appointments |
-| n8n Automation | Client onboarding workflow — folders, emails, notifications |
-
----
-
-📍 Algeria · Open to remote internships · [Portfolio](https://katiaaitrahmoune.github.io)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiaaitrahmoune&show_icons=true&theme=github_dark&hide_border=true)
